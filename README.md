@@ -7,3 +7,7 @@ This project is used to practice Git branching, merging, and pull requests.
 - Create and manage pull requests
 - Learn basic HTML structure with login page
 
+## Goals
+- Learn Git branching
+- Practice pull requests
+
